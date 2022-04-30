@@ -10,7 +10,7 @@ I have been in the information technology environment for about 3 years. I live 
 * 🖥️  See my portfolio at [kkristian.de](http://kkristian.de)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on interesing projects!
-* ⚡  I'm sectretly Spider-man... but don't tell anyone :)
+* ⚡  I'm secretly a Spider-man... but don't tell anyone :)
 
 ### Skills
 
