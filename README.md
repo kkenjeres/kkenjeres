@@ -8,9 +8,8 @@ I have been in the information technology environment for about 3 years. I live 
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [kkristian.de](http://kkristian.de)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on interesing projects!
-* ⚡  I'm secretly a Spider-man... but don't tell anyone :)
 
 ### Skills
 
