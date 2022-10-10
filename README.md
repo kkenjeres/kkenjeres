@@ -33,8 +33,9 @@ I have been in the information technology environment for about 3 years. I live 
  <p>UI/UX</p>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
- <p>UI/UX</p>
-<a className='ctr_icon' href='https://webflow.com/'><img className='w-[36px] h-[36px]' src={Git} alt="Git" />Git</a>
+ <p>CMS</p>
+                <a className='ctr_icon' href='https://webflow.com/'><img className='w-[36px] h-[36px]' src={webflow} alt="" />webflow</a>
+
 
 </p>
 
