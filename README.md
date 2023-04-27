@@ -7,8 +7,6 @@ I'am a Frontend developer and UI/UX designer
 I have been in the information technology environment for about 3 years. I live in web technologies, I work with tasks of a different profile. I delve into any documentation in detail, I love to learn new things and improve my level in development.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [kkristian.de](http://kkristian.de)
-* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on interesing projects!
 
 ### Skills
