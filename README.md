@@ -1,10 +1,8 @@
 Hi 👋 My name is Kristian
 =========================
 
-I'am a Frontend developer and UI/UX designer
+I'am a Frontend developer
 --------------------------------------------
-
-I have been in the information technology environment for about 3 years. I live in web technologies, I work with tasks of a different profile. I delve into any documentation in detail, I love to learn new things and improve my level in development.
 
 * 🌍  I'm based in Germany
 * 🤝  I'm open to collaborating on interesing projects!
