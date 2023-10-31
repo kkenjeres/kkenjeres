@@ -7,7 +7,7 @@ I'm a Frontend Developer
 * 🌍  I'm based in Stuttgart
 * 🖥️  See my portfolio at [kenjeres](https://www.kenjeres.com/)
 * ✉️  You can contact me at [hi@kenjeres.com](mailto:hi@kenjeres.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesing projects!
+* 🤝  I'm open to collaborating on interesing projects!
 
 ### Skills
 
