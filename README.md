@@ -1,7 +1,7 @@
 Hi 👋 My name is Kristian Kenjeres
 =========================================================================================================================================
 
-I'm a Web Developer
+I'm a Full-Stack Developer
 ------------------------
 
 * 🌍  I'm based in Stuttgart, Germany
