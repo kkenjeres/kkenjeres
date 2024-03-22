@@ -4,9 +4,8 @@ Hi 👋 My name is Kristian Kenjeres
 I'm a Web Developer
 ------------------------
 
-* 🌍  I'm based in Stuttgart
+* 🌍  I'm based in Stuttgart, Germany
 * 🖥️  See my portfolio at [kenjeres](https://www.kenjeres.com/)
-* ✉️  You can contact me at [hi@kenjeres.com](mailto:hi@kenjeres.com)
 * 🤝  I'm open to collaborating on interesing projects!
 
 ### Skills
