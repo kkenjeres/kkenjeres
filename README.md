@@ -6,7 +6,7 @@ I'm a Full-Stack Developer
 
 * 🌍  I'm based in Stuttgart, Germany
 * 🖥️  See my portfolio at [kenjeres](https://www.kenjeres.com/)
-* 🤝  I'm open to collaborating on interesing projects!
+* 🤝  I'm open to collaborating on interesing projects #OpenToWork | #NewBeginnings | #CareerJourney!
 
 ### Skills
 
