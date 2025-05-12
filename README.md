@@ -1,7 +1,7 @@
 Hi 👋 My name is Kristian Kenjeres
 =========================================================================================================================================
 
-I'm a Frontend Engineer | Focus on Next Js/ React.js/ TypeScript/ Tailwind.css/ Prismic/ Firebase.
+I'm a Fullstack | Frontend Developer, Next Js/ TypeScript/ Tailwind.css/ Headles CMS/ Firebase.
 ------------------------
 
 * 🌍  I'm based in Stuttgart, Germany
