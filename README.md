@@ -1,4 +1,4 @@
-Hi 👋 My name is Kristian Kenjeres
+Hi 👋 My name is Kristian 
 =========================================================================================================================================
 
 I'm a Fullstack | Frontend Developer, Next Js/ TypeScript/ Tailwind.css/ Headles CMS/ Firebase.
