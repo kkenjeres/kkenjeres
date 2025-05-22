@@ -6,7 +6,7 @@
 
 ### 🚀 Trusted by Y Combinator-backed startups:
 - 🌍 [World.org](https://world.org)
-- 📊 [Clustr](https://сlustr.io)
+- 📊 [Clustr](https://clustr.io)
 
 ---
 
