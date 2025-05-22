@@ -28,8 +28,6 @@
 ### 🤝 Let's connect:
 - 📫 Portfolio: [kenjeres.com](https://kenjeres.com)
 - 💼 LinkedIn: [kristiankenjeres](https://linkedin.com/in/kristiankenjeres)
-- ☕ Buy me a coffee: [buymeacoffee.com/kenjeres](https://www.buymeacoffee.com/kenjeres)
-
 ---
 
 ### 📈 GitHub Stats
