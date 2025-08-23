@@ -11,11 +11,11 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Zustand, Headless UI
-- **Backend**: Node.js, Firebase, REST APIs
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, MOBx, React Native Expo
+- **Backend**: Node.js, Firebase, Supabase, REST APIs
 - **CMS**: Prismic, Storyblok
 - **Performance**: SEO, accessibility, Lighthouse optimization
-- **Tools**: Git, Figma, Vercel, VS Code
+- **Tools**: Git, Figma, Vercel, Cursor
 
 ---
 
@@ -38,7 +38,3 @@
 
 ---
 
-### ⚡ Bonus
-> *“No fluff. No ego. Just fast, beautiful, scalable code.”*
-
----
