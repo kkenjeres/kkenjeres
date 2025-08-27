@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Kristian Kenjeres
 
-**Frontend Web Engineer** with 4+ years of experience crafting high-performance websites and scalable web applications.
+**Frontend Engineer** with 4+ years of experience crafting high-performance websites and scalable web applications.
 
 ---
 
