@@ -1,40 +1,35 @@
-## Hi 👋 I'm Kristian Kenjeres
+## 👋 Hi, I'm Kristian Kenjeres  
 
-**Frontend Engineer** with 4+ years of experience crafting high-performance websites and scalable web applications.
-
----
-
-### 🚀 Trusted by Y Combinator-backed startups:
-- 🌍 [World.org](https://world.org)
-- 📊 [Clustr](https://clustr.io)
+**Senior Frontend Engineer** | 4+ years in React, Next.js, TypeScript  
+Architecting and scaling high-traffic platforms (1M+ MAU), international product launches, and performance-first UIs.  
 
 ---
 
-### 🛠️ Tech Stack:
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, MOBx, React Native Expo
-- **Backend**: Node.js, Firebase, Supabase, REST APIs
-- **CMS**: Prismic, Storyblok
-- **Performance**: SEO, accessibility, Lighthouse optimization
-- **Tools**: Git, Figma, Vercel, Cursor
+### 🚀 Selected Work
+- 🌍 [World.org](https://world.org) — Scaled frontend for global identity platform (1M+ MAU, 200K weekly visitors).  
+- 📊 [Clustr](https://clustr.io) — Web3 analytics, *Product of the Year 2023* on Product Hunt.  
+- 💸 Monetory.io — Fintech MVP, optimized SEO & Lighthouse 90+.  
 
 ---
 
-### 🌍 Location & Availability:
-- 🇩🇪 Based in **Stuttgart, Germany**
-- 🌐 Working **remotely with clients worldwide**
+### 🛠️ Core Stack
+**Frontend**: React, Next.js, TypeScript, Tailwind, Redux, Zustand, React Query  
+**UI/UX**: Framer Motion, Shadcn, Headless UI, Accessibility (WCAG 2.1)  
+**Infrastructure**: GraphQL, REST, WebSockets, PostgreSQL, Firebase, Docker, CI/CD  
 
 ---
 
-### 🤝 Let's connect:
-- 📫 Portfolio: [kenjeres.com](https://kenjeres.com)
-- 💼 LinkedIn: [kristiankenjeres](https://linkedin.com/in/kristiankenjeres)
+### 🌍 Location & Availability
+📍 Stuttgart, Germany | 🌐 Remote  
+
+---
+
+### 🤝 Connect
+- 🔗 [Portfolio](https://kenjeres.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/kristiankenjeres)  
+
 ---
 
 ### 📈 GitHub Stats
-
-![Kenjeres's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkenjeres&show_icons=true&count_private=true&theme=default&hide_border=true)
-
-![Kenjeres's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkenjeres&theme=default&hide_border=true)
-
----
-
+![Kenjeres's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkenjeres&show_icons=true&count_private=true&theme=default&hide_border=true)  
+![Kenjeres's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkenjeres&theme=default&hide_border=true)  
