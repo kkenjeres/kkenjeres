@@ -15,29 +15,13 @@ Architecting and scaling high-traffic platforms (1M+ MAU), international product
 🛠️ Core Stack  
 
 **Frontend:**  
-* React  
-* Next.js  
-* TypeScript  
-* Tailwind  
-* Redux Toolkit (RTK)  
-* Zustand  
-* TanStack Query (React Query)  
+React, Next.js, TypeScript, Tailwind, Redux Toolkit (RTK), Zustand, TanStack Query (React Query)  
 
 **UI/UX:**  
-* Framer Motion  
-* Shadcn  
-* Headless UI  
-* Accessibility (WCAG 2.1)  
+Framer Motion, Shadcn, Headless UI, Accessibility (WCAG 2.1)  
 
 **Infrastructure:**  
-* GraphQL  
-* REST  
-* WebSockets  
-* PostgreSQL  
-* Firebase  
-* Docker  
-* CI/CD  
-
+GraphQL, REST, WebSockets, PostgreSQL, Firebase, Docker, CI/CD  
 
 ---
 
